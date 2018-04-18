@@ -74,7 +74,7 @@ p {
 }
 
 #press img:hover {
-	border-color:: rgb(98,110,105);
+	border-color: rgb(98,110,105);
 	cursor: pointer;
 }
 
