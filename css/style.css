@@ -70,10 +70,10 @@ p {
 	border-color: #ccc;
 	border-style: solid;
 	padding: 1px;
+	transition: border-color 0.1s;
 }
 
 #press img:hover {
-	transition: border-color 0.1s;
 	border-color:: rgb(98,110,105);
 }
 
