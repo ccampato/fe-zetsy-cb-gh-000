@@ -73,7 +73,7 @@ p {
 }
 
 #press img:hover {
-	transition: all 0.1s;
+	transition: border-color 0.1s;
 	border-color:: rgb(98,110,105);
 }
 
